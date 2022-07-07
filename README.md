@@ -18,7 +18,7 @@ Our API is organised around using HTTP verbs and REST. Our API accepts and retur
 ```bash
 git clone https://github.com/YOUR_USERNAME/documention.git
 ```
-- Make your contribution.
-- Make a PR!
+- Make your contribution
+- Make a PR
 
 
